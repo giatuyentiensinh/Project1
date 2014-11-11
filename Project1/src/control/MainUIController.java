@@ -265,7 +265,6 @@ public class MainUIController implements Initializable {
                     case "nữ":
                     case "girl":
                     case "gái":
-                    case "cái":
                     case "women":
                     case "woman":
                     case "1":
@@ -274,7 +273,6 @@ public class MainUIController implements Initializable {
                     case "nam":
                     case "boy":
                     case "trai":
-                    case "đực":
                     case "men":
                     case "man":
                     case "0":
