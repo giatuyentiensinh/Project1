@@ -1,0 +1,23 @@
+.Anchor {
+    -fx-background-color: #0e298e;    
+}
+
+.button {
+    -fx-background-color: #0e298e;    
+    -fx-stroke-width: 5;
+    -fx-border-color: white;
+    -fx-text-fill: white;
+}
+.text {
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-background-color: #cccccc;
+    -fx-border-color: blue;    
+    -fx-font-size: 14;
+}
+
+.text-field:focused {
+    -fx-background-color: white;
+}
